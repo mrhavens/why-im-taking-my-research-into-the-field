@@ -6,26 +6,26 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/essays/why-im-taking-my-research-into-the-field`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-26 17:04:43`
+- **Repo Created**: `2025-06-26 18:48:59`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-26 17:04:43`
-- **Last Commit SHA**: `52887ad6e93e7ffe881437c38dec45adfad04519`
-- **Last Commit Message**: `Signed /mnt/c/fieldcraft/essays/why-im-taking-my-research-into-the-field/docs/integrity.sha256 with GPG key 4E27D37C358872BF at 2025-06-26T22:02:58Z`
+- **This Commit Timestamp**: `2025-06-26 18:48:59`
+- **Last Commit SHA**: `87e360fcf474f33221922d857405d6d70913214a`
+- **Last Commit Message**: `Copied /mnt/c/fieldcraft/essays/why-im-taking-my-research-into-the-field/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-26T22:02:58Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jun 26 17:04:36 2025 -0500`
+- **Last Commit Date**: `Thu Jun 26 18:48:40 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `38`
-- **Tracked Files**: `49`
-- **Uncommitted Changes**: `No`
+- **Total Commits**: `58`
+- **Tracked Files**: `76`
+- **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
 ---
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 38 minutes`
+- **System Uptime**: `up 2 hours, 21 minutes`
 - **MAC Address**: `00:15:5d:e3:69:be`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
