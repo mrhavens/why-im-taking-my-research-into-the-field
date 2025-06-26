@@ -1,0 +1,24 @@
+{
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/why-im-taking-my-research-into-the-field",
+  "mirrors": [
+    "https://github.com/mrhavens/why-im-taking-my-research-into-the-field",
+    "https://gitlab.com/mrhavens/why-im-taking-my-research-into-the-field",
+    "https://bitbucket.org/thefoldwithin/why-im-taking-my-research-into-the-field",
+    "https://remember.thefoldwithin.earth/mrhavens/why-im-taking-my-research-into-the-field",
+    "https://codeberg.org/mrhavens/why-im-taking-my-research-into-the-field",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "timestamp": "2025-06-26T22:02:58Z",
+  "commit": "76dd5e3",
+  "tree_hash": "1299f9ca21b3f58c3d8c17963b1978c732b448d0",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
